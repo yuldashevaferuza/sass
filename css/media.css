@@ -1,0 +1,155 @@
+@media(max-width: 1024px){
+    .hero__title {
+        font-size: 60px;
+    }
+    .hero__alen {
+        margin-top: -60px;
+    }
+    img, svg {
+        margin-left: -150px;
+    }
+    .google {
+        margin-left: 4px;
+        margin-top: 16px;
+    }
+    .partners__img {
+        width: 230px;
+        height: 90px;
+
+    }
+    .partners__img2 {
+        width: 230px;
+        height: 90px;
+    }
+    .partners__block2 {
+        padding: 40px 6px;
+    }
+    .partners__btn {
+        margin-left: -100px;
+    }
+    .testimonials__img {
+        margin-left: 30px;
+    }
+    .testimonials__desc {
+        font-size: 20px;
+    }
+    .contact__img {
+        width: 450px;
+        height: 250px;
+    }
+    .contact__block {
+        width: 395px;
+        height: 640px;
+    }
+    .icon__title {
+        font-size: 10px;
+        margin-left: 30px;
+        line-height: 28px;
+    }
+    .input__block {
+        padding: 120px 20px;
+    }
+    .header__icon5 {
+        margin-left: 82px;
+    }
+    .contact__icon2 {
+        width: 200px;
+    }
+    .icon1 {
+        margin-left: 30px;
+    }
+    .fa-solid, .fas {
+        margin-left: -42px;
+    }
+    .fa-solid, .fas {
+        margin-left: -330px;
+    }
+    .header__nav__item {
+        font-size: 10px;
+        margin-left: 7px;
+    }
+    .header__logo {
+        margin-left: 200px;
+    }
+    .fa-solid, .fas {
+        margin-left: 0;
+    }
+    .icon {
+        margin-left: 100px;
+    }
+    .icon__title {
+        margin-left: 69px;
+    }
+    p {
+        font-size: 10px;
+    }
+    .icon__title {
+        margin-left: 42px;
+    }
+    .contact__img {
+        margin-top: 120px;
+    }
+    .icon2 {
+        margin-left: 0;
+    }
+    p {
+      line-height: 20px;
+        margin-left: 62px;
+    }
+}
+@media(max-width: 992px) {
+    .organize__desc {
+        font-size: 19px;
+    }
+    .fa-solid, .fas {
+        margin-left: -330px;
+    }
+    .organize__btn {
+        font-size: 25px;
+        line-height: 61px;
+        padding: 10px 30px;
+    }
+    .organize__img {
+        width: 470px;
+        height: 275px;
+    }
+    .prototyp__img {
+        width: 490px;
+        height: 370px;
+    }
+    .er {
+        margin-left: 380px;
+    }
+    .slider__img1 {
+        margin-left: 380px;
+    }
+    .slider__desc1 {
+        margin-left: 380px;
+    }
+    .pricing__block {
+        width: 270px;
+        height: 480px;
+    }
+    .pricing__btn {
+        padding: 10px 35px;
+    }
+    .pricing__block2 {
+        width: 270px;
+        height: 570px;
+    }
+    .pricing__btn3 {
+        padding: 10px 35px;
+    }
+    .input__block {
+        padding: 90px 20px;
+    }
+    .contact__block {
+        width: 390px;
+        height: 600px;
+    }
+    .contact__btn {
+        padding: 11px 42px;
+    }
+
+}
+
