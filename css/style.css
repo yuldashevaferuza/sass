@@ -152,7 +152,20 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+    overflow: hidden;
+    position: relative;
 }
+.hero__alen .hero__title {
+    opacity: 0;
+    transition: 1s;
+    transform: translateY(150px);
+
+}
+.hero__alen:hover .hero__title {
+    transform: translateY(0);
+    opacity: 1;
+}
+
 
 .hero__btn {
     font-size: 20px;
